@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","3","should login successfully with valid credentials","chromium","2026-02-11","failed","2026-02-11","Login Scenarios","login.spec.ts","",""
